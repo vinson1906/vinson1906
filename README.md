@@ -21,6 +21,9 @@ Passionate about building scalable web applications and solving real-world probl
 ---
 
 ## 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,django,python,mysql,git,github,vscode,firebase" />
+</p>
 
 ### Frontend
 - React.js
