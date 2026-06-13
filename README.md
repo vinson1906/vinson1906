@@ -23,8 +23,13 @@ Passionate about building scalable web applications and solving real-world probl
 ## 🛠️ Tech Stack
 
 ### Frontend
-JavaScript TypeScript React Next-js .Net C# Azure Webpack Firebase Cloudflare Docker HTML5 CSS3 MicrosoftSQLServer Git Github Actions GitHub Visual Studio Code
-
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
 ### Backend
 - Node.js
 - Express.js
