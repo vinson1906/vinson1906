@@ -1,14 +1,4 @@
-<p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZjhobG9tcWEwNXJiMXVnY3RxcW5oNXZxNjNndnJhNmp4ajcxZWlncSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3ohhwfzFXF9DGuSYVi/giphy.webp" width="250">
-</p>
-
-<h1 align="center">
-  Joseph Vinson Samuel M
-</h1>
-
-<p align="center">
-  Full Stack Developer • MERN Stack • Django
-</p>
+# 👋 Hi, I'm Joseph Vinson Samuel M
 
 🚀 Full Stack Developer | MERN Stack Developer | Django Learner
 
