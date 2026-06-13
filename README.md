@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph Vinson Samuel M
 
-🚀 Full Stack Developer | MERN Stack Developer | Django Learner
+🚀 Full Stack Developer | MERN Stack Developer 
 
 Passionate about building scalable web applications and solving real-world problems through technology.
 
