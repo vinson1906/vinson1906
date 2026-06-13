@@ -56,8 +56,6 @@ Full-stack e-commerce website with product filtering, cart, authentication, and 
 ### 🎬 Michael Jackson Documentary Website
 Interactive storytelling website with smooth animations and immersive user experience.
 
-### 🤖 AI Portfolio Website
-Portfolio with AI avatar introduction and voice narration.
 
 ---
 
