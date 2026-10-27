@@ -3,7 +3,7 @@
 🚀 Full Stack Developer | MERN Stack Developer 
 
 Passionate about building scalable web applications and solving real-world problems through technology.
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinson1906&label=Profile%20views&color=0e75b6&style=flat" alt="vinson1906" /> </p>
 ---
 
 ## 💻 About Me
