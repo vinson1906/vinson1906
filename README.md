@@ -61,6 +61,7 @@ Interactive storytelling website with smooth animations and immersive user exper
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinson1906&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinson1906&layout=compact)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinson1906&" alt="vinson1906" /></p>
 
 ---
 
