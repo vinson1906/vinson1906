@@ -146,8 +146,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vinson1906&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22D3EE&count_private=true" alt="Joseph Vinson Samuel M's GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinson1906&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9" alt="Most used languages" height="170" />
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=vinson1906&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22D3EE&cache_seconds=86400" height="170" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vinson1906&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&cache_seconds=86400" height="170" alt="Top Languages" />
+</div>
 
 <br/>
 
