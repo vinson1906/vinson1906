@@ -147,8 +147,8 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vinson1906&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22D3EE&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22D3EE&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vinson1906&layout=compact&hide_border=true&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&cache_seconds=86400" height="170" alt="Top Languages" />
+  <img src="https://ghstats.dev/api/card?username=vinson1906&show_icons=false&hide_border=true&border_radius=15&hide=followers%2Crepos%2Cissues%2Cactive_day%2Cstars%2Cstreak%2Cweek%2Cavg" alt="GitHub Stats Card" />
+    <img src="https://ghstats.dev/api/langs?username=vinson1906&hide_border=true&max_langs=9" alt="Top Languages" />
 </div>
 
 <br/>
