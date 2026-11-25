@@ -146,11 +146,6 @@
 
 <div align="center">
 
-<div align="center">
-  <img src="https://ghstats.dev/api/card?username=vinson1906&show_icons=false&hide_border=true&border_radius=15&hide=followers%2Crepos%2Cissues%2Cactive_day%2Cstars%2Cstreak%2Cweek%2Cavg" alt="GitHub Stats Card" />
-    <img src="https://ghstats.dev/api/langs?username=vinson1906&hide_border=true&max_langs=9" alt="Top Languages" />
-</div>
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=vinson1906&hide_border=true&background=0d1117&ring=22D3EE&fire=8b5cf6&currStreakNum=ffffff&currStreakLabel=22D3EE&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak" />
