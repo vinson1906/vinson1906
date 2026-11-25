@@ -26,6 +26,7 @@
 
 <br/>
 
+![GitHub Snake](https://raw.githubusercontent.com/vinson1906/vinson1906/refs/heads/output/github-snake-dark.svg)
 <!-- ===================== ABOUT ===================== -->
 ## `> about_me`
 
